@@ -25,6 +25,6 @@
     },
     "dependencies": {
         "@popperjs/core": "^2.4.3",
-        "vuetify": "^2.3.3"
+        "vuetify": "^2.6.10"
     }
 }
